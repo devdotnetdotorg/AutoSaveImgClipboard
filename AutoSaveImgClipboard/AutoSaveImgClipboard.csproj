@@ -137,7 +137,6 @@
   <ItemGroup>
     <Content Include="AutoSaveImgClipboard_ml.xml" />
     <Content Include="com_93620.ico" />
-    <Content Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

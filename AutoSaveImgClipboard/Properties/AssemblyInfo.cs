@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("DevDotNet.ORG")]
 [assembly: AssemblyProduct("AutoSaveImgClipboard")]
-[assembly: AssemblyCopyright("Copyright DevDotNet.ORG ©  2019")]
+[assembly: AssemblyCopyright("Copyright DevDotNet.ORG ©  2019 Serdyukov Anton")]
 [assembly: AssemblyTrademark("DevDotNet.ORG")]
 [assembly: AssemblyCulture("")]
 
